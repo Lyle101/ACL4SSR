@@ -1,0 +1,5 @@
+# 内容：白名单->直连
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,fetchv.net
+DOMAIN-SUFFIX,pcgamingwiki
+DOMAIN-SUFFIX,nexusmods

@@ -1,0 +1,4 @@
+# 内容：DeepL 负载均衡
+# 数量：2条
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,ipinfo.io
